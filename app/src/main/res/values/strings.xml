@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">RecycleScout</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="scoring_platform_1">Scoring Platform #1</string>
+    <string name="scoring_platform_2">Scoring Platform #2</string>
+    <string name="human_player">Human Player</string>
+    <string name="landfill">Landfill</string>
+    <string name="ramp_side_hp">Ramp Side</string>
+    <string name="plain_side_hp">Clear Side</string>
+    <string name="ramp_side_landfill">Ramp Side</string>
+    <string name="plain_side_landfill">Clear Side</string>
+
+</resources>
